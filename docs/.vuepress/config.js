@@ -7,7 +7,7 @@ const telemetry = dirTree(path.join(__dirname, '../telemetry'), {extensions:/\.m
 module.exports = {
   title: 'iRacing SDK Documentation',
   description: 'Community documentation for iRacing.com\'s SDK',
-  base: '/irsdkdocs',
+  base: '/irsdkdocs/',
   themeConfig: {
     repo: 'sajax/irsdkdocs',
     docsDir: 'docs',
