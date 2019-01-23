@@ -1,6 +1,10 @@
+---
+sidebarDepth: 3
+---
+
 # WeekendInfo
 
-Description
+WeekendInfo contains information about the configuration of the server/test session, details of the track being used.
 
 [[toc]]
 

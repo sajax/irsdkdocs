@@ -1,3 +1,7 @@
+---
+sidebarDepth: 3
+---
+
 # SplitTimeInfo
 
 SplitTimeInfo contains the [Sectors](#sectors) array of track sectors for the track

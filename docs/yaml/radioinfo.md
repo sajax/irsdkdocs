@@ -1,7 +1,45 @@
+---
+sidebarDepth: 3
+---
+
 # RadioInfo
 
-Description of RadioInfo
+RadioInfo contains information about the in-sim radio (voice chat)
 
-## Property 1
+## SelectedRadioNum
 
-Description of property 1
+The selected radio from [Radios](#radios) the client has selected
+
+## Radios <Badge text="Array" />
+
+### HopCount
+
+### NumFrequencies
+
+### RadioNum
+
+### ScanningIsOn
+
+### TunedToFrequencyNum
+
+### Frequencies <Badge text="Array" />
+
+#### CanScan
+
+#### CanSquawk
+
+#### CarIdx
+
+#### ClubID
+
+#### FrequencyName
+
+#### FrequencyNum
+
+#### IsDeletable
+
+#### IsMutable
+
+#### Muted
+
+#### Priority

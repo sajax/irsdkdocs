@@ -1,7 +1,19 @@
+---
+sidebarDepth: 3
+---
+
 # CameraInfo
 
 Description of CameraInfo
 
-## Property 1
+## Groups <Badge text="Array" />
 
-Description of property 1
+### GroupName
+
+### GroupNum
+
+### Cameras <Badge text="Array" />
+
+#### CameraName
+
+#### CameraNum

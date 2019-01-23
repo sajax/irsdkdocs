@@ -1,7 +1,19 @@
+---
+sidebarDepth: 3
+---
+
 # QualifyResultsInfo
 
-Description of DriverInfo
+Description of QualifyResultsInfo
 
-## Property 1
+## Results
 
-Description of property 1
+### CarIdx
+
+### ClassPosition
+
+### FastestLap
+
+### FastestTime
+
+### Position

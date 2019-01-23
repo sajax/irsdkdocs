@@ -1,7 +1,77 @@
+---
+sidebarDepth: 3
+---
+
 # SessionInfo
 
-Description of SessionInfo
+SessionInfo contains a single child paramter of [Sessions](#sessions). Sessions contains an Array of all the sessions to be run during the duration of the server.
 
-## Property 1
+## Sessions <Badge text="Array" />
 
-Description of property 1
+Each session in the array can have the following paramters. Some parameters may not calculate until the session has concluded.
+
+### ResultsAverageLapTime
+
+### ResultsFastestLap
+
+### ResultsLapsComplete
+
+### ResultsNumCautionFlags
+
+### ResultsNumCautionLaps
+
+### ResultsNumLeadChanges
+
+### ResultsOfficial
+
+### SessionLaps
+
+### SessionName
+
+### SessionNum
+
+### SessionNumLapsToAvg
+
+### SessionRunGroupsUsed
+
+### SessionSkipped
+
+### SessionSubType
+
+### SessionTime
+
+### SessionTrackRubberState
+
+### SessionType
+
+### ResultsPositions <Badge text="Array" />
+
+#### CarIdx
+
+#### ClassPosition
+
+#### FastestLap
+
+#### FastestTime
+
+#### Incidents
+
+#### JokerLapsComplete
+
+#### Lap
+
+#### LapsComplete
+
+#### LapsDriven
+
+#### LapsLed
+
+#### LastTime
+
+#### Position
+
+#### ReasonOutId
+
+#### ReasonOutStr
+
+#### Time
