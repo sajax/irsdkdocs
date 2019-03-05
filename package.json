@@ -6,9 +6,9 @@
   "author": "Simon Trendell",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^0.14.8",
     "directory-tree": "^2.2.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "vuepress": "^0.14.8"
   },
   "scripts": {
     "dev": "vuepress dev docs",
