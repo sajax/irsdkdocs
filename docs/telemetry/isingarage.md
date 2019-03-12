@@ -1,0 +1,2 @@
+# IsInGarage <Badge text="boolean" />
+

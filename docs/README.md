@@ -27,7 +27,7 @@ Instructions on contributing here
 
 ### Node
 
-* [Node.js iRacing SDK](http://members.iracing.com/jforum/posts/list/3329583.page)
+* [Node.js iRacing SDK Forum Thread](http://members.iracing.com/jforum/posts/list/3329583.page)
 * [GitHub](https://github.com/apihlaja/node-irsdk)
 
 ### Logitech ARX

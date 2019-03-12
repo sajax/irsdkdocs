@@ -1,0 +1,2 @@
+# IsDiskLoggingEnabled <Badge text="boolean" />
+

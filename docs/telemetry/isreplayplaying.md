@@ -1,0 +1,2 @@
+# IsReplayPlaying <Badge text="boolean" />
+

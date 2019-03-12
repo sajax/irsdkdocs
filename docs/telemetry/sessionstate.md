@@ -1,0 +1,2 @@
+# SessionState <Badge text="bitfield" />
+
