@@ -110,6 +110,8 @@ WeekendInfo contains information about the configuration of the server/test sess
 
 ### Date
 
+### EarthRotationSpeedupFactor
+
 ### FogLevel
 
 ### HardcoreLevel
