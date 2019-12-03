@@ -24,6 +24,10 @@ You can verify using [WeekendInfo](/yaml/weekendinfo.md) -> [SimMode](/yaml/week
 
 Spectators act like normal clients except they will not appear in any results or standings information. The client will still have an entry under the [DriverInfo](/yaml/driverinfo.md) section and with Ghost Driving will be able to drive on track but no race control features will be available (such as lap timing).
 
+### Spotting
+
+Spotters acts like a Team session but a spotter will be unable to take over control of the car or ghost drive.
+
 ### TestDrive
 
 During maintenance periods iRacing enables access to their [TestDrive](https://testdrive.iracing.com/) portal which allows members to launch offline test sessions, this currently includes the ability to lauch test sessions using content members have downloaded but not purchased.
@@ -34,7 +38,7 @@ In a session launched from TestDrive no identity information (including name, cu
 
 ### Team Racing
 
-Team Racing allows multiple usesr to share a car during a session if enabled. 
+Team Racing allows multiple usesr to share a car during a session if enabled.
 
 [WeekendInfo](/yaml/weekendinfo.md) -> [TeamRacing](/yaml/weekendinfo.md#teamracing)
 
