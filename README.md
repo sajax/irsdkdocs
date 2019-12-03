@@ -6,4 +6,4 @@ The master branch here is automatically built and deployed to GitHub pages at ht
 
 ## Contributing
 
-All content is located under the `docs/` directory and written using Markdown. If you can add more informatin or improve clarity please make a change and submit it for inclusion.
+All content is located under the `docs/` directory and written using Markdown. If you can add more information or improve clarity please make a change and submit it for inclusion.
