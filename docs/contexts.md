@@ -14,6 +14,10 @@ You can verify using [WeekendInfo](/yaml/weekendinfo.md) -> [WeekendOptions](/ya
 
 In addition to the normal state (user connected to session as driver), there are several other options
 
+### Offline Test & AI Racing
+
+Introduced in the 2020 S1 build was support for launching offline racing using AI opponents. These will act just like normal Offline Testing sessions but there may not be more than 1 driver entry.
+
 ### Replay from disk
 
 Replays (Documents/iRacing/replays/*.rpy) will provide basic SDK access, some variables may not be available or will be returning incorrect values.
