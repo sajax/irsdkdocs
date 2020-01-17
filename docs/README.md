@@ -1,12 +1,10 @@
 # Welcome
 
-Introduction here
-
-The aim is to collabriativly document iRacing's SDK, firstly by listing the available telemetry parameters and secondly by describing what values the parameters provide. Including how the parameters behave during pre or post-session, client out of the car, replays or spectating.
+The aim is to collaboratively document iRacing's SDK, firstly by listing the available telemetry parameters and secondly by describing what values the parameters provide. Including how the parameters behave during pre or post-session, client out of the car, replays or spectating.
 
 ## Contributing
 
-Instructions on contributing here
+If you can contribute updates or corrections to this documentation please submit a pull request via GitHub.
 
 ## Other Resources
 

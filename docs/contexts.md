@@ -1,6 +1,6 @@
 # Contexts
 
-The iRacing Simulator is complex and has a varitey of modes or contexts which can affect how variables or items in the SDK act. Where the values of a variable may vary or act differently from a standard Test Session, Open Practice or Race Session we hope to note in the description page for that variable.
+The iRacing Simulator is complex and has a variety of modes or contexts which can affect how variables or items in the SDK act. Where the values of a variable may vary or act differently from a standard Test Session, Open Practice or Race Session we hope to note in the description page for that variable.
 
 [[toc]]
 
@@ -16,7 +16,7 @@ In addition to the normal state (user connected to session as driver), there are
 
 ### Offline Test & AI Racing
 
-Introduced in the 2020 S1 build was support for launching offline racing using AI opponents. These will act just like normal Offline Testing sessions but there may not be more than 1 driver entry.
+Introduced in the 2020 S1 build was support for launching offline racing using AI opponents. These will act just like normal Offline Testing sessions but there may not be more than 1 driver entry in the [DriverInfo](/yaml/driverinfo) section.
 
 ### Replay from disk
 
@@ -42,7 +42,7 @@ In a session launched from TestDrive no identity information (including name, cu
 
 ### Team Racing
 
-Team Racing allows multiple usesr to share a car during a session if enabled.
+Team Racing allows multiple users to share a car during a session if enabled.
 
 [WeekendInfo](/yaml/weekendinfo.md) -> [TeamRacing](/yaml/weekendinfo.md#teamracing)
 
@@ -56,7 +56,7 @@ Heat Racing allows multiple race sessions in a single event if enabled.
 
 During a Heat Racing session
 
-* In practice sessions drivers may be split into run groups. Seperate run groups will not see each other on track
+* In practice sessions drivers may be split into run groups. Separate run groups will not see each other on track
 * CONSOLATION races may be skipped
 * Not all drivers may race in the final or consolation races
 
@@ -69,8 +69,6 @@ During a Heat Racing session
 ### Open Qualifying
 
 ### Lone Qualifying
-
-### Indy 500 Qualifying
 
 ### Race
 
