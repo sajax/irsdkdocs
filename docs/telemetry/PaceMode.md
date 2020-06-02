@@ -1,2 +1,2 @@
-# PaceMod <Badge text="boolean" />
+# PaceMode <Badge text="boolean" />
 
