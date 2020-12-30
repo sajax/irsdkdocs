@@ -1,2 +1,1 @@
-# SessionTime <Badge text="bitfield" />
-
+# SessionTime <Badge text="float" />
