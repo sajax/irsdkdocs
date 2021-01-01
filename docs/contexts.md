@@ -18,6 +18,8 @@ In addition to the normal state (user connected to session as driver), there are
 
 Introduced in the 2020 S1 build was support for launching offline racing using AI opponents. These will act just like normal Offline Testing sessions but there may not be more than 1 driver entry in the [DriverInfo](/yaml/driverinfo) section.
 
+In AI races the session can be restarted, this will cause any Session variables to reset but the SessionNum variable will be unchanged.
+
 ### Replay from disk
 
 Replays (Documents/iRacing/replays/*.rpy) will provide basic SDK access, some variables may not be available or will be returning incorrect values.
@@ -65,6 +67,8 @@ During a Heat Racing session
 ### Offline Testing
 
 ### Open Practice
+
+### Lone Practice
 
 ### Open Qualifying
 
