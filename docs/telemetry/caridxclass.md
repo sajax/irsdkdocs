@@ -1,0 +1,1 @@
+# CarIdxClass <Badge text="Array" />
