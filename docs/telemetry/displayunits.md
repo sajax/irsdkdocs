@@ -1,4 +1,4 @@
-# DisplayUnits
+# DisplayUnits <Badge text="Live Only" type="warn"/>
 
 DisplayUnits is the option the client has selected from the available units in the sim options page
 

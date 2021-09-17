@@ -1,4 +1,4 @@
-# CamCarIdx <Badge text="int" />
+# CamCarIdx <Badge text="int" /> <Badge text="Live Only" type="warn"/>
 
 Active camera's focus car index
 

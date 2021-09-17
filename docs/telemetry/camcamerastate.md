@@ -1,4 +1,4 @@
-# CamCameraState <Badge text="bitfield" />
+# CamCameraState <Badge text="bitfield" /> <Badge text="Live Only" type="warn"/>
 
 State of camera system
 
@@ -15,5 +15,3 @@ State of camera system
 | irsdk_UseKeyAcceleration    | 0x0040 |   |
 | irsdk_UseKey10xAcceleration | 0x0080 |   |
 | irsdk_UseMouseAimMode       | 0x0100 |   |
-
-
