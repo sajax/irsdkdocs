@@ -14,4 +14,4 @@ jobs:
         TARGET_REPO: sajax/irsdkdocs
         TARGET_BRANCH: gh_pages
         BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: .vuepress/dist/
+        BUILD_DIR: docs/.vuepress/dist/
