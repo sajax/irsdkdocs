@@ -1,2 +1,15 @@
+.DS_Store
 node_modules
 docs/.vuepress/dist
+docs/.vuepress/.temp
+docs/.vuepress/.cache
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

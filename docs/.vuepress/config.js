@@ -13,7 +13,8 @@ module.exports = {
     docsDir: 'docs',
     editLinks: true,
     lastUpdated: true,
-    nav: [
+		contributors: false,
+    navbar: [
       { text: 'Home', link: '/' },
       { text: 'YAML Structures', link: '/yaml/' },
       { text: 'Telemetry', link: '/telemetry/' },
@@ -28,5 +29,6 @@ module.exports = {
         'contexts'
       ]
     }
-  }
+  },
+	plugins: ['@vuepress/search']
 }
