@@ -1,14 +1,23 @@
-const dirTree = require('directory-tree');
-const path = require('path');
+import { defineUserConfig } from 'vuepress';
+import { defaultTheme } from '@vuepress/theme-default';
+import { searchPlugin } from '@vuepress/plugin-search';
+
+import * as url from 'url';
+const __filename = url.fileURLToPath(import.meta.url);
+const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
+
+import dirTree from 'directory-tree';
+import path from 'path';
 
 const yaml = dirTree(path.join(__dirname, '../yaml'), {extensions:/\.md/});
 const telemetry = dirTree(path.join(__dirname, '../telemetry'), {extensions:/\.md/});
 
-module.exports = {
+export default defineUserConfig({
+  lang: 'en-US',
   title: 'iRacing SDK Documentation',
   description: 'Community documentation for iRacing.com\'s SDK',
   base: '/irsdkdocs/',
-  themeConfig: {
+	theme: defaultTheme({
     repo: 'sajax/irsdkdocs',
     docsDir: 'docs',
     editLinks: true,
@@ -29,6 +38,6 @@ module.exports = {
         'contexts'
       ]
     }
-  },
-	plugins: ['@vuepress/search']
-}
+  }),
+	plugins: [searchPlugin()]
+});
