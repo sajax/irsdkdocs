@@ -19,6 +19,7 @@ export default defineUserConfig({
   base: '/irsdkdocs/',
 	theme: defaultTheme({
     repo: 'sajax/irsdkdocs',
+    docsBranch: 'master',
     docsDir: 'docs',
     editLinks: true,
     lastUpdated: true,
