@@ -1,4 +1,4 @@
-# iRacing SDK Documentation & Notes [![Build Status](https://travis-ci.org/sajax/irsdkdocs.svg?branch=master)](https://travis-ci.org/sajax/irsdkdocs)
+# iRacing SDK Documentation & Notes 
 
 Utilizes VuePress to generate a static website to bring information about the iRacing.com Simulator SDK into a single place.
 
