@@ -1,9 +1,9 @@
 import { defineUserConfig } from 'vuepress';
+import { viteBundler } from '@vuepress/bundler-vite';
 import { defaultTheme } from '@vuepress/theme-default';
 import { searchPlugin } from '@vuepress/plugin-search';
 
 import * as url from 'url';
-const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
 import dirTree from 'directory-tree';
@@ -13,6 +13,7 @@ const yaml = dirTree(path.join(__dirname, '../yaml'), {extensions:/\.md/});
 const telemetry = dirTree(path.join(__dirname, '../telemetry'), {extensions:/\.md/});
 
 export default defineUserConfig({
+  bundler: viteBundler(),
   lang: 'en-US',
   title: 'iRacing SDK Documentation',
   description: 'Community documentation for iRacing.com\'s SDK',
