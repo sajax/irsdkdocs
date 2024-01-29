@@ -1,4 +1,4 @@
-# TrackTemp <Badge text="int" /> <Badge text="Deprecated" type="error"/>
+# TrackTemp <Badge text="int" /> <Badge text="Deprecated" type="danger"/>
 
 *  **Unit:** [Celsius](https://en.wikipedia.org/wiki/Celsius)
 
