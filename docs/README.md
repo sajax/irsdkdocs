@@ -2,6 +2,8 @@
 
 The aim is to collaboratively document iRacing's SDK, firstly by listing the available telemetry parameters and secondly by describing what values the parameters provide. Including how the parameters behave during pre or post-session, client out of the car, replays or spectating.
 
+This documentation does not cover the iRacing [/data api](https://forums.iracing.com/discussion/15068/general-availability-of-data-api/p1) which is a seperate REST API for fetching results and other information you can access via the iRacing UI.
+
 ## Contributing
 
 If you can contribute updates or corrections to this documentation please submit a pull request via GitHub.
