@@ -10,8 +10,10 @@ If you can contribute updates or corrections to this documentation please submit
 
 ## Other Resources
 
-* [iRacing API's and Development Discussions](http://members.iracing.com/jforum/forums/show/2111.page)
-* [iRacing SDK Forum Thread](http://members.iracing.com/jforum/posts/list/1470675.page)
+* [iRacing API's and Development Discussions](https://forums.iracing.com/categories/iracing-api-s-and-development-discussions)
+* [iRacing SDK Forum Thread](https://forums.iracing.com/discussion/62/iracing-sdk/p1)
+* [[Old Forum] iRacing API's and Development Discussions](http://members.iracing.com/jforum/forums/show/2111.page)
+* [[Old Forum] iRacing SDK Forum Thread](http://members.iracing.com/jforum/posts/list/1470675.page)
 
 ## Libraries
 
