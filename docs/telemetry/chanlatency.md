@@ -1,5 +1,7 @@
 # ChanLatency <Badge text="float" />
 
+*  **Unit:** [Second](https://en.wikipedia.org/wiki/Second)
+
 ::: tip Release Notes
 Simulator performance meters may now be displayed via telemetry:
 

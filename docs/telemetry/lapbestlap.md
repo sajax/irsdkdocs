@@ -1,2 +1,3 @@
-# LapBestLap <Badge text="int" />
+# LapBestLap <Badge text="float" />
 
+*  **Unit:** [Second](https://en.wikipedia.org/wiki/Second)
