@@ -1,4 +1,4 @@
-# SessionTimeOfDay <Badge text="int" />
+# SessionTimeOfDay <Badge text="float" />
 
 SessionTimeOfDay is the number of seconds that have passed since midnight, this value already adjusts for the [EarthRotationSpeedupFactor](/yaml/weekendinfo.md#earthrotationspeedupfactor) value.
 

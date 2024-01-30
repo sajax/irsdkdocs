@@ -1,1 +1,1 @@
-# SessionTime <Badge text="float" />
+# SessionTime <Badge text="double" />

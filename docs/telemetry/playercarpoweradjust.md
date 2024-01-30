@@ -1,1 +1,1 @@
-# PlayerCarPowerAdjust <Badge text="int" />
+# PlayerCarPowerAdjust <Badge text="float" />

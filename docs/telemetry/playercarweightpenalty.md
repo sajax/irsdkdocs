@@ -1,1 +1,1 @@
-# PlayerCarTeamIncidentCount <Badge text="int" />
+# PlayerCarWeightPenalty <Badge text="float" />

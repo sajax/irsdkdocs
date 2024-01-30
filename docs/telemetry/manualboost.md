@@ -1,1 +1,1 @@
-# ManualBoost <Badge text="int" />
+# ManualBoost <Badge text="boolean" />

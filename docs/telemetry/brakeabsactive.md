@@ -1,4 +1,4 @@
-# BrakeABSactive <Badge text="Boolean" />
+# BrakeABSactive <Badge text="boolean" />
 
 
 ::: tip Release Notes
