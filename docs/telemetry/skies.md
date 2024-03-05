@@ -2,19 +2,21 @@
 
 Integer representation of the current cloud cover
 
-* 0 = Clear
-* 1 = Partly Cloudy
-* 2 = Mostly Cloudy
-* 3 = Overcast
+- 0 = Clear
+- 1 = Partly Cloudy
+- 2 = Mostly Cloudy
+- 3 = Overcast
 
 ### Related
 
-* [AirDensity](airdensity.md)
-* [AirPressure](airpressure.md)
-* [AirTemp](airtemp.md)
-* [FogLevel](foglevel.md)
-* [RelativeHumidity](relativehumidity.md)
-* [TrackTempCrew](tracktempcrew.md)
-* [WeatherType](weathertype.md)
-* [WindDir](winddir.md)
-* [WindVel](windvel.md)
+- [AirDensity](airdensity.md)
+- [AirPressure](airpressure.md)
+- [AirTemp](airtemp.md)
+- [FogLevel](foglevel.md)
+- [RelativeHumidity](relativehumidity.md)
+- [Precipitation](precipitation.md)
+- [TrackTempCrew](tracktempcrew.md)
+- [WeatherType](weathertype.md)
+- [WeatherVersion](weatherversion.md)
+- [WindDir](winddir.md)
+- [WindVel](windvel.md)

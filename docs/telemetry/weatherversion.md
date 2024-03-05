@@ -11,4 +11,14 @@
 
 ### Related
 
+- [AirDensity](airdensity.md)
+- [AirPressure](airpressure.md)
+- [AirTemp](airtemp.md)
+- [FogLevel](foglevel.md)
+- [RelativeHumidity](relativehumidity.md)
+- [Precipitation](precipitation.md)
+- [Skies](skies.md)
+- [TrackTempCrew](tracktempcrew.md)
 - [WeatherType](weathertype.md)
+- [WindDir](winddir.md)
+- [WindVel](windvel.md)
