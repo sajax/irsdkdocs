@@ -84,6 +84,8 @@ WeekendInfo contains information about the configuration of the server/test sess
 
 ## TrackPitSpeedLimit
 
+## TrackPrecipitation
+
 ## TrackRelativeHumidity
 
 ## TrackSkies
