@@ -1,18 +1,14 @@
 # WeatherType <Badge text="int" />
 
-Weather type 
+## irsdk_WeatherDynamics
 
-* 0 = Constant / Static
-* 1 =  Dynamic / Random
+| Name                                     | Value | Description                     |
+| ---------------------------------------- | ----- | ------------------------------- |
+| irsdk_WeatherDynamics_Specified_FixedSky | 0     | Specified weather / fixed sky   |
+| irsdk_WeatherDynamics_Generated_SkyMoves | 1     | Generated weather / dynamic sky |
+| irsdk_WeatherDynamics_Generated_FixedSky | 2     | Generated weather / fixed sky   |
+| irsdk_WeatherDynamics_Specified_SkyMoves | 3     | Constant weather / dynamic sky  |
 
 ### Related
 
-* [AirDensity](airdensity.md)
-* [AirPressure](airpressure.md)
-* [AirTemp](airtemp.md)
-* [FogLevel](foglevel.md)
-* [RelativeHumidity](relativehumidity.md)
-* [Skies](skies.md)
-* [TrackTempCrew](tracktempcrew.md)
-* [WindDir](winddir.md)
-* [WindVel](windvel.md)
+- [WeatherVersion](weatherversion.md)
