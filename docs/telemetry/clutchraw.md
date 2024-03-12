@@ -1,12 +1,12 @@
 # Clutch <Badge text="float" />
 
-Clutch is a float value determined by the position of the clutch axis received by the sim.
+Raw clutch input 0=disengaged to 1=fully engaged
 
 ### Related
 
 - [Brake](brake.md)
 - [BrakeRaw](brakeraw.md)
-- [ClutchRaw](clutchraw.md)
+- [Clutch](clutch.md)
 - [Throttle](throttle.md)
 - [ThrottleRaw](throttleraw.md)
 - [HandBrake](handbrake.md)
