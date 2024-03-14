@@ -34,5 +34,5 @@ Added "WeatherDeclaredWet" telemetry variable, this is set to true when the mars
 | irsdk_TrackWetness_VeryLightlyWet | 3     |             |
 | irsdk_TrackWetness_LightlyWet     | 4     |             |
 | irsdk_TrackWetness_ModeratelyWet  | 5     |             |
-| irsdk_TrackWetness_VeryWet        | 5     |             |
-| irsdk_TrackWetness_ExtremelyWet   | 6     |             |
+| irsdk_TrackWetness_VeryWet        | 6     |             |
+| irsdk_TrackWetness_ExtremelyWet   | 7     |             |
