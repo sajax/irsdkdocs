@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a267c898","path":"/telemetry/yawnorth.html","title":"YawNorth","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706546467000},"filePathRelative":"telemetry/yawnorth.md"}');export{t as data};

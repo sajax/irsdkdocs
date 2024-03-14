@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-722394db","path":"/telemetry/chanquality.html","title":"ChanQuality","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1644595888000},"filePathRelative":"telemetry/chanquality.md"}');export{t as data};

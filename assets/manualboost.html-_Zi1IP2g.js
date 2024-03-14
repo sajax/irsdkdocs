@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-130d0eaa","path":"/telemetry/manualboost.html","title":"ManualBoost","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706612038000},"filePathRelative":"telemetry/manualboost.md"}');export{t as data};

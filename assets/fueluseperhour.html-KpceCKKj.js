@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-613b284c","path":"/telemetry/fueluseperhour.html","title":"FuelUsePerHour","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706611960000},"filePathRelative":"telemetry/fueluseperhour.md"}');export{e as data};

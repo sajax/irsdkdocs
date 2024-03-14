@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d0f582d6","path":"/telemetry/gpuusage.html","title":"GpuUsage","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1624528524000},"filePathRelative":"telemetry/gpuusage.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ec941ae2","path":"/telemetry/sessionstate.html","title":"SessionState","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"irsdk_SessionState","slug":"irsdk-sessionstate","link":"#irsdk-sessionstate","children":[]}],"git":{"updatedTime":1581498408000},"filePathRelative":"telemetry/sessionstate.md"}');export{e as data};

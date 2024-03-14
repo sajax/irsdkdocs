@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-600f4d74","path":"/telemetry/pacemode.html","title":"PaceMode","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706612089000},"filePathRelative":"telemetry/pacemode.md"}');export{e as data};

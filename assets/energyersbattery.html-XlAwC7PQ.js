@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-26dd984a","path":"/telemetry/energyersbattery.html","title":"EnergyERSBattery","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1579273286000},"filePathRelative":"telemetry/energyersbattery.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-16db2c0d","path":"/telemetry/roll.html","title":"Roll","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706611960000},"filePathRelative":"telemetry/roll.md"}');export{e as data};

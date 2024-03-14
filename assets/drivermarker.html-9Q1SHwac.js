@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-35bff770","path":"/telemetry/drivermarker.html","title":"DriverMarker","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706612038000},"filePathRelative":"telemetry/drivermarker.md"}');export{e as data};

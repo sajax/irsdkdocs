@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d6b4638a","path":"/telemetry/framerate.html","title":"FrameRate","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706611960000},"filePathRelative":"telemetry/framerate.md"}');export{e as data};

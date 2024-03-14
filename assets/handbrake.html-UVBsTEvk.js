@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1e96b168","path":"/telemetry/handbrake.html","title":"HandBrake","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"Related","slug":"related","link":"#related","children":[]}],"git":{"updatedTime":1548234728000},"filePathRelative":"telemetry/handbrake.md"}');export{e as data};

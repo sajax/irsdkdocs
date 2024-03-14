@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6870c210","path":"/telemetry/loadnumtextures.html","title":"LoadNumTextures","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1617884367000},"filePathRelative":"telemetry/loadnumtextures.md"}');export{e as data};

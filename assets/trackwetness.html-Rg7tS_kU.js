@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-898fccd0","path":"/telemetry/trackwetness.html","title":"TrackWetness","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"irsdk_TrackWetness","slug":"irsdk-trackwetness","link":"#irsdk-trackwetness","children":[]}],"git":{"updatedTime":1710434262000},"filePathRelative":"telemetry/trackwetness.md"}');export{e as data};

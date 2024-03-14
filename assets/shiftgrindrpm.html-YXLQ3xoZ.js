@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a21118aa","path":"/telemetry/shiftgrindrpm.html","title":"ShiftGrindRPM","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/shiftgrindrpm.md"}');export{t as data};

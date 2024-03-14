@@ -1,0 +1,1 @@
+import{_ as s,r as t,o,c,a as e,b as n,d as r}from"./app-jq5QALbz.js";const _={},d={id:"gpuusage",tabindex:"-1"},u={class:"header-anchor",href:"#gpuusage"};function l(p,g){const a=t("Badge");return o(),c("div",null,[e("h1",d,[e("a",u,[e("span",null,[n("GpuUsage "),r(a,{text:"float"})])])])])}const h=s(_,[["render",l],["__file","gpuusage.html.vue"]]);export{h as default};

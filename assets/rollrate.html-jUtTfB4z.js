@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1842312d","path":"/telemetry/rollrate.html","title":"RollRate","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/rollrate.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-437c1bb4","path":"/telemetry/isingarage.html","title":"IsInGarage","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/isingarage.md"}');export{e as data};

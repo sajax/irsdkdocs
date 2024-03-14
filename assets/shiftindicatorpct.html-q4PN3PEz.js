@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c94a6d18","path":"/telemetry/shiftindicatorpct.html","title":"ShiftIndicatorPct","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706546289000},"filePathRelative":"telemetry/shiftindicatorpct.md"}');export{t as data};

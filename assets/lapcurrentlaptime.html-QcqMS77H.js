@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7d3fa904","path":"/telemetry/lapcurrentlaptime.html","title":"LapCurrentLapTime","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706611960000},"filePathRelative":"telemetry/lapcurrentlaptime.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-161a0678","path":"/telemetry/pushtopass.html","title":"PushToPass","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1547562529000},"filePathRelative":"telemetry/pushtopass.md"}');export{t as data};

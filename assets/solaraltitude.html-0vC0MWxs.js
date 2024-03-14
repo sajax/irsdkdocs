@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5c225636","path":"/telemetry/solaraltitude.html","title":"SolarAltitude","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"Related","slug":"related","link":"#related","children":[]}],"git":{"updatedTime":1663326805000},"filePathRelative":"telemetry/solaraltitude.md"}');export{e as data};

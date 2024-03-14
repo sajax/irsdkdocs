@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4aa138e9","path":"/telemetry/steeringwheelpcttorque.html","title":"SteeringWheelPctTorque","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/steeringwheelpcttorque.md"}');export{e as data};

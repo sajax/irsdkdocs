@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-36b5d6ff","path":"/telemetry/caridxlastlaptime.html","title":"CarIdxLastLapTime","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1617884367000},"filePathRelative":"telemetry/caridxlastlaptime.md"}');export{t as data};

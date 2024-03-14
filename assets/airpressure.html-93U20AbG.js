@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2cabe1f9","path":"/telemetry/airpressure.html","title":"AirPressure","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"Related","slug":"related","link":"#related","children":[]}],"git":{"updatedTime":1709640110000},"filePathRelative":"telemetry/airpressure.md"}');export{e as data};

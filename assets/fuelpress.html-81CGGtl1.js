@@ -1,0 +1,1 @@
+import{_ as t,r as a,o,c as r,a as e,b as c,d as n}from"./app-jq5QALbz.js";const l={},_={id:"fuelpress",tabindex:"-1"},d={class:"header-anchor",href:"#fuelpress"};function f(p,u){const s=a("Badge");return o(),r("div",null,[e("h1",_,[e("a",d,[e("span",null,[c("FuelPress "),n(s,{text:"float"})])])])])}const i=t(l,[["render",f],["__file","fuelpress.html.vue"]]);export{i as default};

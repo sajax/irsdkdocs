@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-eef349cc","path":"/telemetry/fuellevel.html","title":"FuelLevel","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706611960000},"filePathRelative":"telemetry/fuellevel.md"}');export{e as data};

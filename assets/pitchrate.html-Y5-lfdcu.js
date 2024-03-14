@@ -1,0 +1,1 @@
+import{_ as a,r as c,o,c as r,a as e,b as s,d as n}from"./app-jq5QALbz.js";const _={},d={id:"pitchrate",tabindex:"-1"},h={class:"header-anchor",href:"#pitchrate"};function i(l,p){const t=c("Badge");return o(),r("div",null,[e("h1",d,[e("a",h,[e("span",null,[s("PitchRate "),n(t,{text:"float"})])])])])}const m=a(_,[["render",i],["__file","pitchrate.html.vue"]]);export{m as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3c07317c","path":"/telemetry/longaccel.html","title":"LongAccel","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/longaccel.md"}');export{e as data};

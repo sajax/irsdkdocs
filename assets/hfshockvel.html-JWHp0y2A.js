@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3dc96891","path":"/telemetry/hfshockvel.html","title":"HFshockVel","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1579273286000},"filePathRelative":"telemetry/hfshockvel.md"}');export{e as data};

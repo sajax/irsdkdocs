@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-73db55ee","path":"/telemetry/pushtotalk.html","title":"PushToTalk","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1680788420000},"filePathRelative":"telemetry/pushtotalk.md"}');export{t as data};

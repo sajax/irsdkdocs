@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6cbf87ca","path":"/telemetry/energymgu_klapdeploypct.html","title":"EnergyMGU_KLapDeployPct","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1579273286000},"filePathRelative":"telemetry/energymgu_klapdeploypct.md"}');export{e as data};
