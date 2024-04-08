@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-78f8735d","path":"/telemetry/watertemp.html","title":"WaterTemp","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/watertemp.md"}');export{e as data};

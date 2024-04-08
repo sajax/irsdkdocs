@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-425a0033","path":"/telemetry/windvel.html","title":"WindVel","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"Related","slug":"related","link":"#related","children":[]}],"git":{"updatedTime":1709640110000},"filePathRelative":"telemetry/windvel.md"}');export{e as data};

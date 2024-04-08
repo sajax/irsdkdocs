@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1bcc37b8","path":"/telemetry/foglevel.html","title":"FogLevel","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"Related","slug":"related","link":"#related","children":[]}],"git":{"updatedTime":1709640110000},"filePathRelative":"telemetry/foglevel.md"}');export{e as data};

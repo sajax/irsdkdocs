@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0aaaa05c","path":"/telemetry/radiotransmitfrequencyidx.html","title":"RadioTransmitFrequencyIdx","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/radiotransmitfrequencyidx.md"}');export{e as data};

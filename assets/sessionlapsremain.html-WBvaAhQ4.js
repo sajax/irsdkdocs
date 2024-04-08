@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4f4a696e","path":"/telemetry/sessionlapsremain.html","title":"SessionLapsRemain","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706546289000},"filePathRelative":"telemetry/sessionlapsremain.md"}');export{e as data};

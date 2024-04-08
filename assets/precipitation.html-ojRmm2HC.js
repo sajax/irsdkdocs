@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-75b92676","path":"/telemetry/precipitation.html","title":"Precipitation","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"Related","slug":"related","link":"#related","children":[]}],"git":{"updatedTime":1709640110000},"filePathRelative":"telemetry/precipitation.md"}');export{e as data};

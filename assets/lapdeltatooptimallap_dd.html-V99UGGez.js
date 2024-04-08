@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3ae2e40c","path":"/telemetry/lapdeltatooptimallap_dd.html","title":"LapDeltaToOptimalLap_DD","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/lapdeltatooptimallap_dd.md"}');export{t as data};

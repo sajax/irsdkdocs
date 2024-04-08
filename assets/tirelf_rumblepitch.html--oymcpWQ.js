@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7f339b10","path":"/telemetry/tirelf_rumblepitch.html","title":"TireLF_RumblePitch","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1617884367000},"filePathRelative":"telemetry/tirelf_rumblepitch.md"}');export{e as data};

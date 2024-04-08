@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a659a6f0","path":"/telemetry/playercardriverincidentcount.html","title":"PlayerCarDriverIncidentCount","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1617884367000},"filePathRelative":"telemetry/playercardriverincidentcount.md"}');export{e as data};

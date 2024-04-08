@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-417db03c","path":"/telemetry/chanlatency.html","title":"ChanLatency","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706611960000},"filePathRelative":"telemetry/chanlatency.md"}');export{e as data};

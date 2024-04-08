@@ -1,0 +1,1 @@
+import{_ as t,r as c,o,c as l,a as e,b as s,d as n}from"./app-DuzLYwnF.js";const r={},_={id:"lataccel",tabindex:"-1"},d={class:"header-anchor",href:"#lataccel"};function f(h,i){const a=c("Badge");return o(),l("div",null,[e("h1",_,[e("a",d,[e("span",null,[s("LatAccel "),n(a,{text:"float"})])])])])}const p=t(r,[["render",f],["__file","lataccel.html.vue"]]);export{p as default};

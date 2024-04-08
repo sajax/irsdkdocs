@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-54bb97a8","path":"/telemetry/velocityy.html","title":"VelocityY","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/velocityy.md"}');export{e as data};

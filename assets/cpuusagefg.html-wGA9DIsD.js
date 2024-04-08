@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1ee44b20","path":"/telemetry/cpuusagefg.html","title":"CpuUsageFG","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1710409165000},"filePathRelative":"telemetry/cpuusagefg.md"}');export{e as data};

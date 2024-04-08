@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f0250cb0","path":"/telemetry/caridxf2time.html","title":"CarIdxF2Time","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1551791501000},"filePathRelative":"telemetry/caridxf2time.md"}');export{e as data};

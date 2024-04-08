@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-27cb15ec","path":"/telemetry/voltage.html","title":"Voltage","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/voltage.md"}');export{e as data};

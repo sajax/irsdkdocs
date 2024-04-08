@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3782847e","path":"/telemetry/vertaccel_st.html","title":"VertAccel_ST","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1617884367000},"filePathRelative":"telemetry/vertaccel_st.md"}');export{e as data};

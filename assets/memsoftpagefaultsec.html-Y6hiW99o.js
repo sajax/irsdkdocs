@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-94045c6a","path":"/telemetry/memsoftpagefaultsec.html","title":"MemSoftPageFaultSec","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706612126000},"filePathRelative":"telemetry/memsoftpagefaultsec.md"}');export{e as data};

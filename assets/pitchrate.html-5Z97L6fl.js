@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ba5ddc70","path":"/telemetry/pitchrate.html","title":"PitchRate","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/pitchrate.md"}');export{t as data};

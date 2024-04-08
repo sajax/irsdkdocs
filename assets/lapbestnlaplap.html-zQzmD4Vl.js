@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-58a25d5b","path":"/telemetry/lapbestnlaplap.html","title":"LapBestNLapLap","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/lapbestnlaplap.md"}');export{e as data};

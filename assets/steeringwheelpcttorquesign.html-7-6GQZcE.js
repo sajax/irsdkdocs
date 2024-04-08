@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3d923d68","path":"/telemetry/steeringwheelpcttorquesign.html","title":"SteeringWheelPctTorqueSign","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/steeringwheelpcttorquesign.md"}');export{e as data};

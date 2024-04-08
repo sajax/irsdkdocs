@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-30a72cea","path":"/telemetry/shiftpowerpct.html","title":"ShiftPowerPct","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/shiftpowerpct.md"}');export{t as data};

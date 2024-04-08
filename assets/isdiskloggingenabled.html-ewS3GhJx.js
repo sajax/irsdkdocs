@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-aa8284fe","path":"/telemetry/isdiskloggingenabled.html","title":"IsDiskLoggingEnabled","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/isdiskloggingenabled.md"}');export{e as data};

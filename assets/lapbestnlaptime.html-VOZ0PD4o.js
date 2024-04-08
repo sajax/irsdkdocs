@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-58c7588f","path":"/telemetry/lapbestnlaptime.html","title":"LapBestNLapTime","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/lapbestnlaptime.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-723752d9","path":"/telemetry/oilpress.html","title":"OilPress","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/oilpress.md"}');export{e as data};

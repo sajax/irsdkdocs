@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-830c2a56","path":"/telemetry/manifoldpress.html","title":"ManifoldPress","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1552407114000},"filePathRelative":"telemetry/manifoldpress.md"}');export{e as data};
