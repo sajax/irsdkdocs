@@ -23,6 +23,4 @@ To calcuate the current wind angle on a 0 - 360 scale use `WindDir % 360`
 - [Precipitation](precipitation.md)
 - [Skies](skies.md)
 - [TrackTempCrew](tracktempcrew.md)
-- [WeatherType](weathertype.md)
-- [WeatherVersion](weatherversion.md)
 - [WindVel](windvel.md)

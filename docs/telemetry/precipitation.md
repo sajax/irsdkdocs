@@ -20,6 +20,5 @@ You can also look at the session string and just filter out any sessions that ha
 - [RelativeHumidity](relativehumidity.md)
 - [Skies](skies.md)
 - [TrackTempCrew](tracktempcrew.md)
-- [WeatherType](weathertype.md)
 - [WindDir](winddir.md)
 - [WindVel](windvel.md)

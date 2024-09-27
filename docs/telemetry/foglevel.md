@@ -13,7 +13,5 @@ Fog level represented as a percentage
 - [Precipitation](precipitation.md)
 - [Skies](skies.md)
 - [TrackTempCrew](tracktempcrew.md)
-- [WeatherType](weathertype.md)
-- [WeatherVersion](weatherversion.md)
 - [WindDir](winddir.md)
 - [WindVel](windvel.md)

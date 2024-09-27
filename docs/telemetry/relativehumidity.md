@@ -12,6 +12,5 @@ Relative humidity represented as a percentage
 * [FogLevel](foglevel.md)
 * [Skies](skies.md)
 * [TrackTempCrew](tracktempcrew.md)
-* [WeatherType](weathertype.md)
 * [WindDir](winddir.md)
 * [WindVel](windvel.md)

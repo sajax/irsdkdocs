@@ -16,7 +16,5 @@ Integer representation of the current cloud cover
 - [RelativeHumidity](relativehumidity.md)
 - [Precipitation](precipitation.md)
 - [TrackTempCrew](tracktempcrew.md)
-- [WeatherType](weathertype.md)
-- [WeatherVersion](weatherversion.md)
 - [WindDir](winddir.md)
 - [WindVel](windvel.md)

@@ -14,6 +14,4 @@ Wind velocity at start/finish line
 - [Precipitation](precipitation.md)
 - [Skies](skies.md)
 - [TrackTempCrew](tracktempcrew.md)
-- [WeatherType](weathertype.md)
-- [WeatherVersion](weatherversion.md)
 - [WindDir](winddir.md)

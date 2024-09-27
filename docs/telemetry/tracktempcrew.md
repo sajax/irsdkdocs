@@ -9,6 +9,5 @@
 * [FogLevel](foglevel.md)
 * [RelativeHumidity](relativehumidity.md)
 * [Skies](skies.md)
-* [WeatherType](weathertype.md)
 * [WindDir](winddir.md)
 * [WindVel](windvel.md)
