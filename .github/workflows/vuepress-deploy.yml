@@ -18,7 +18,7 @@ jobs:
           fetch-depth: 0
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@v4
         with:
           # choose pnpm version to use
           version: 8
@@ -29,13 +29,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           # choose node.js version to use
-          node-version: 20
+          node-version: 22
           # cache deps for pnpm
           cache: pnpm
 
       # run build script
       - name: Build VuePress site
-        run: pnpm build
+        run: pnpm docs:build
 
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
@@ -45,7 +45,7 @@ jobs:
           # deploy to gh-pages branch
           target_branch: gh-pages
           # deploy the default output dir of VuePress
-          build_dir: docs/.vuepress/dist
+          build_dir: docs/.vitepress/dist
         env:
           # @see https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
