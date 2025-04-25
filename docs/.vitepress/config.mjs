@@ -5,6 +5,7 @@ import { generateSidebar } from 'vitepress-sidebar';
 export default defineConfig({
   title: "iRacing SDK Documentation",
   description: "Community documentation for iRacing SDK",
+  base: '/irsdkdocs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
