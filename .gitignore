@@ -1,8 +1,8 @@
 .DS_Store
 node_modules
-docs/.vuepress/dist
-docs/.vuepress/.temp
-docs/.vuepress/.cache
+docs/.vitepress/dist
+docs/.vitepress/temp
+docs/.vitepress/cache
 
 
 # Editor directories and files

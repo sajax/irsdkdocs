@@ -5,22 +5,13 @@
   "main": "index.js",
   "author": "Simon Trendell",
   "license": "MIT",
-  "type": "module",
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.15",
-    "@vuepress/plugin-search": "^2.0.0-rc.47",
-    "@vuepress/theme-default": "2.0.0-rc.49",
-    "directory-tree": "^3.5.2",
-    "path": "^0.12.7",
-    "sass-embedded": "^1.79.3",
-    "vue": "^3.5.9",
-    "vuepress": "^2.0.0-rc.15"
+    "vitepress": "^1.6.3",
+    "vitepress-sidebar": "^1.31.1"
   },
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
-  },
-  "peerDependencies": {
-    "vue": "^3.4.15"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   }
 }
