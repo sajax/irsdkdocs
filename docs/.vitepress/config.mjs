@@ -38,6 +38,12 @@ export default defineConfig({
         useFolderLinkFromIndexFile: true,
         sortMenusByName: true
       })
+    },
+    search: {
+      provider: 'local'
+    },
+    editLink: {
+      pattern: 'https://github.com/sajax/irsdkdocs/edit/master/docs/:path'
     }
   }
 })
