@@ -6,8 +6,8 @@
   "author": "Simon Trendell",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.6.3",
-    "vitepress-sidebar": "^1.31.1"
+    "vitepress": "^1.6.4",
+    "vitepress-sidebar": "^1.33.1"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
