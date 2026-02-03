@@ -1,0 +1,1 @@
+import{_ as r,o as a,c as t,ag as i}from"./chunks/framework.CJDoEBko.js";const m=JSON.parse('{"title":"Welcome","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"};function n(l,e,s,h,c,u){return a(),t("div",null,[...e[0]||(e[0]=[i("",16)])])}const p=r(o,[["render",n]]);export{m as __pageData,p as default};
